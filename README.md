@@ -14,7 +14,7 @@ git clone https://github.com/seungwon2/haiku-sonnet-test.git
 ```
 
 ```
-npm init
+npm i
 ```
 
 3. Set up AWS credential
